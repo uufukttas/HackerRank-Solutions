@@ -12,4 +12,4 @@ This repo includes answers of HackerRank Questions.
 
 [DiagonalDifference](https://github.com/uufukttas/HackerRank-Solutions/tree/master/DiagonalDifference)
 
-[CountingSort1](https://github.com/uufukttas/HackerRank-Solutions/tree/master/CountingSort)
+[CountingSort1](https://github.com/uufukttas/HackerRank-Solutions/tree/master/CountingSort1)
