@@ -11,3 +11,5 @@ This repo includes answers of HackerRank Questions.
 [LonelyInteger](https://github.com/uufukttas/HackerRank-Solutions/tree/master/LonelyInteger)
 
 [DiagonalDifference](https://github.com/uufukttas/HackerRank-Solutions/tree/master/DiagonalDifference)
+
+[CountingSort1](https://github.com/uufukttas/HackerRank-Solutions/tree/master/CountingSort)
