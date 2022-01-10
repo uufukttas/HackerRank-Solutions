@@ -33,9 +33,9 @@ function countingSort(arr) {
     // Write your code here
     let output = [];
 
-    for (let index = 0; index < arr.length; index++) {
+    for (let index = 0; index < 100; index++) {
         output[index] = 0;
-    };
+    }
 
     for (let index = 0; index < arr.length; index++) {
         if (output[(arr[index])] === 0) {
@@ -43,8 +43,8 @@ function countingSort(arr) {
         } else {
             output[(arr[index])] = output[(arr[index])]+1;
         }
-    };
-
+    }
+    
     return output;
 }
 
