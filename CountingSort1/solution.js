@@ -44,7 +44,7 @@ function countingSort(arr) {
             output[(arr[index])] = output[(arr[index])]+1;
         }
     }
-    
+
     return output;
 }
 
