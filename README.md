@@ -9,3 +9,4 @@ This repo includes answers of HackerRank Questions.
 - [LonelyInteger](https://github.com/uufukttas/HackerRank-Solutions/tree/master/LonelyInteger.js)
 - [DiagonalDifference](https://github.com/uufukttas/HackerRank-Solutions/tree/master/DiagonalDifference.js)
 - [CountingSort](https://github.com/uufukttas/HackerRank-Solutions/tree/master/CountingSort.js)
+- [SimpleArraySum](https://github.com/uufukttas/HackerRank-Solutions/tree/master/SimpleArraySum.js)
