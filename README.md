@@ -2,9 +2,10 @@
 
 This repo includes answers of HackerRank Questions.
 
-- [PlusMinus](https://github.com/uufukttas/HackerRank-Solutions/tree/master/PlusMinus)
-- [MinMaxSum](https://github.com/uufukttas/HackerRank-Solutions/tree/master/MinMaxSum)
-- [TimeConversion](https://github.com/uufukttas/HackerRank-Solutions/tree/master/TimeConversion)
-- [LonelyInteger](https://github.com/uufukttas/HackerRank-Solutions/tree/master/LonelyInteger)
-- [DiagonalDifference](https://github.com/uufukttas/HackerRank-Solutions/tree/master/DiagonalDifference)
-- [CountingSort1](https://github.com/uufukttas/HackerRank-Solutions/tree/master/CountingSort1)
+- [SolveMeFirst](https://github.com/uufukttas/HackerRank-Solutions/tree/master/SolveMeFirst.js)
+- [PlusMinus](https://github.com/uufukttas/HackerRank-Solutions/tree/master/PlusMinus.js)
+- [MinMaxSum](https://github.com/uufukttas/HackerRank-Solutions/tree/master/MinMaxSum.js)
+- [TimeConversion](https://github.com/uufukttas/HackerRank-Solutions/tree/master/TimeConversion.js)
+- [LonelyInteger](https://github.com/uufukttas/HackerRank-Solutions/tree/master/LonelyInteger.js)
+- [DiagonalDifference](https://github.com/uufukttas/HackerRank-Solutions/tree/master/DiagonalDifference.js)
+- [CountingSort](https://github.com/uufukttas/HackerRank-Solutions/tree/master/CountingSort.js)
