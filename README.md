@@ -11,3 +11,4 @@ This repo includes answers of HackerRank Questions.
 - [CountingSort](https://github.com/uufukttas/HackerRank-Solutions/tree/master/CountingSort.js)
 - [SimpleArraySum](https://github.com/uufukttas/HackerRank-Solutions/tree/master/SimpleArraySum.js)
 - [VeryBigSum](https://github.com/uufukttas/HackerRank-Solutions/tree/master/VeryBigSum.js)
+- [TryCatchAndFinally](https://github.com/uufukttas/HackerRank-Solutions/tree/master/TryCatchAndFinally.js)
