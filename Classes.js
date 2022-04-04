@@ -16,7 +16,7 @@ class Polygon {
 
             return pmeter;
         }
-    }    
+    }
 }
 
 const rectangle = new Polygon([10, 20, 10, 20]);

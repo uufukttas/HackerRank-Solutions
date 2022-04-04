@@ -14,8 +14,8 @@ process.stdin.on('end', _ => {
     inputString = inputString.trim().split('\n').map(string => {
         return string.trim();
     });
-    
-    main();    
+
+    main();
 });
 
 function readLine() {
@@ -40,9 +40,9 @@ function Rectangle(a, b) {
 function main() {
     const a = +(readLine());
     const b = +(readLine());
-    
+
     const rec = new Rectangle(a, b);
-    
+
     console.log(rec.length);
     console.log(rec.width);
     console.log(rec.perimeter);
